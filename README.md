@@ -166,31 +166,28 @@ CSS (/siːɛsɛs/ англ. Cascading Style Sheets «каскадные табл
 
 22.	Повторите страницу по данному по образцу:
  
+ 		<p><u>привет, мир</u></p>
+		<p><strike>привет, мир</strike></p>
+		<p><ins>привет, мир</ins></p>
 
 23.	Повторите страницу по данному по образцу:
 
+		border:1px solid red;
  
 24.	Повторите страницу по данному по образцу:
 
+		border: 1px dotted blue;
  
 25.	Повторите страницу по данному по образцу:
 
-
+		border: 3px dotted blue;
+		border-radius: 10px 30px 10px 30px;
  
 26.	Повторите страницу по данному по образцу:
 
-
-
+		border:1px solid red;
+		border-radius: 100%;
  
 27.	Повторите страницу по данному по образцу:
 
-
-
- 
-
-https://www.codewars.com/kata/555de49a04b7d1c13c00000e
-https://www.codewars.com/kata/588453ea56daa4af920000ca
-https://www.codewars.com/kata/55e9529cbdc3b29d8c000016
-https://www.codewars.com/kata/55968ab32cf633c3f8000008
-https://www.codewars.com/kata/55ee3ebff71e82a30000006a
-https://www.codewars.com/kata/5412509bd436bd33920011bc
+<p><href=one.html" style=c green><ins>привет, мир</ins></p>
